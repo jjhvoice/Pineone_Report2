@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pineone_Report2</string>
+    <string-array name="spinner_items">
+        <item>SA_ID</item>
+        <item>STB_MAC</item>
+        <item>CAT_ID</item>
+        <item>DEFIN_FLAG</item>
+        <item>LEVEL_GB</item>
+        <item>CAT_GB</item>
+        <item>ORDER_GB</item>
+        <item>NET_TYP</item>
+        <item>IS_UHD</item>
+        <item>APP_TYPE</item>
+        <item>PAGE_NO</item>
+        <item>PAGE_CNT</item>
+        <item>PAGE_IDX</item>
+        <item>SERIES_NO</item>
+        <item>QUICK_DIS_YN</item>
+        <item>DEC_POS_YN</item>
+    </string-array>
+</resources>
